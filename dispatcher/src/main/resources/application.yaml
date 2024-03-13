@@ -1,0 +1,6 @@
+server:
+  port: 8084
+
+bot:
+  name: EduCourseSaverMediaBot
+  token: 7019263160:AAFnOKi_Y4lnVe34wNzupj8Z5UPRc6ywPxA
